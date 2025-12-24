@@ -6,8 +6,8 @@ This project is based on an [original work](https://github.com/tsoding/lamb/) by
 
 ## Quick Start
 
-```bash
-$ rustc -o lamb lamb.c
+```console
+$ rustc -o lamb lamb.rs
 $ ./lamb ./std.lamb
 ...
 ,---@>
