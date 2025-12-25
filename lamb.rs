@@ -645,7 +645,7 @@ impl<'a> Lexer<'a> {
 
         self.token = Token::Invalid;
         self.print_loc(&mut io::stderr());
-        eprintln!("ERROR: Unknown token starts with `{x}`");
+        eprintln!("ERROR: Unknown token starts with `{}`", stringify(&[x]));
 
         false
     }
