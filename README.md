@@ -1,6 +1,6 @@
 # Lamb
 
-Tiny Pure Functional Programming Language in Rust. Based on [Untype Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus) with Normal Order reduction.
+Tiny Pure Functional Programming Language in Rust. Based on [Untyped Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus) with Normal Order reduction.
 
 This project is based on an [original work](https://github.com/tsoding/lamb/) by **Alexey Kutepov** which is written in C. Refer to its [README](https://github.com/tsoding/lamb/blob/main/README.md) for full documentation.
 
